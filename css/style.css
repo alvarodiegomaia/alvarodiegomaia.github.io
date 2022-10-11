@@ -6,12 +6,13 @@ body {
     font-family: 'Noto Sans', sans-serif;
     padding: 40px 0px;
     color: #3d3d3f;
+    background: rgba(25, 34, 39, 1);
 }
 
 main {
     background-color: #fff;
     border: 1px solid #ddd;
-    box-shadow: 0 0 500px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 40px 0 rgba(0, 0, 0, 0.1);
 }
 
 a, a:hover {
