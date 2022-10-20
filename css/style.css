@@ -19,6 +19,12 @@ a, a:hover {
     color: #64b2b6;
 }
 
+h1 {
+    font-size: 28px;
+    font-weight: 500;
+    color: black;
+}
+
 h2 {
     font-size: 20px;
     font-weight: 500;
